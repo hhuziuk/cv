@@ -1,108 +1,67 @@
-# Heorhii Huziuk [Георгій Гузюк]
-## Node JS engineer
-## `Contacts`: 
-### Email:
-* #### <a href="huziukwork@gmail.com">_huziukwork@gmail.com_</a>
-* #### <a href="huziukwork@proton.me">_huziukwork@proton.me_</a>
-### Phone:
-* #### UA: +380950083618
-* #### Pl: +48451586161
-### LinkedIn:
-* #### <a href="https://www.linkedin.com/in/heorhii-huziuk-a93900219/">_linkedIn_</a>
+# Heorhii Huziuk - Node.js Engineer
 
+## Contact Information
+- **Phone**: +48451586161
+- **Email**: [huziukwork@gmail.com](mailto:huziukwork@gmail.com)
+- **LinkedIn**: [Heorhii Huziuk](http://in/heorhii-huziuk-a93900219)
+- **GitHub**: [hhuziuk](https://github.com/hhuziuk)
 
-## `Projects`:
+## Professional Experience
 
-### Book marketplace:   <a href="https://github.com/hhuziuk/marketplace.git">project page</a>
-Used technologies: PostgreSQL, Typeorm, NodeJS(Express), Redis, Docker
+### Book Marketplace
+- **GitHub**: [Book Marketplace](https://github.com/hhuziuk/marketplace.git)
+- **Technologies**: PostgreSQL, TypeORM, Node.js (Express), Redis, Docker
+- **Key Contributions**:
+  - Implemented Domain-Driven Design (DDD) architecture.
+  - Developed multiple authentication strategies (local, Google using Passport.js).
+  - Managed interactions with Stripe for payments and Shippo for parcel services.
+  - Leveraged Redis for user session storage.
+  - Containerized the project using Docker-Compose.
+  - Conducted testing with Postman.
 
-    * implemented the DDD(Domain-driven design) architecture approach
-    * used different authentication strategies (local and Google authentication using Passport.js)
-    * implemented the interaction with the payment service Stripe and the parcel service Shippo and mail verification using nodemailer
-    * used Redis to store user sessions
-    * worked with Docker-Compose to create containers with the project
-    * wrote tests using Postman
+### BonORM
+- **GitHub**: [BonORM](https://github.com/hhuziuk/bonORM.git)
+- **NPM**: [BonORM](https://www.npmjs.com/package/bonorm)
+- **Technologies**: PostgreSQL, MySQL
+- **Key Contributions**:
+  - Created a custom ORM for simplified database interactions.
+  - Supported PostgreSQL and MySQL relational databases.
+  - Utilized metadata and decorators in Node.js.
+  - Constructed a command interface for configuration and migrations.
+  - Integrated Class-Validator library for setting validation rules.
 
-### BonORM:   <a href="https://www.npmjs.com/package/bonorm">npm </a>, <a href="https://github.com/hhuziuk/bonORM.git">project page</a>
-Used technologies: PostgreSQL, MySQL
+### Library Platform
+- **GitHub**: [Library Platform](https://github.com/hhuziuk/library_platform_ddd.git)
+- **Technologies**: PostgreSQL, MongoDB, TypeORM, Mongoose, Node.js (Express), Redis, GraphQL
+- **Key Contributions**:
+  - Implemented Domain-Driven Design (DDD) architecture.
+  - Used Redis to store user sessions.
+  - Built authentication system using JWT.
+  - Conducted unit testing with Jest and documentation with Swagger.
+  - Utilized MongoDB and PostgreSQL databases to store user data.
+  - Deployed project on Google Cloud Platform.
 
-    * created my own ORM implementation to simplify interaction with databases
-    * added support for such relational databases as PostgreSQL and MySQL
-    * worked with metadata in NodeJS, used decorators
-    * built a command interface for generating configurations and migrations
-    * added support for migrations
-    * added support for the Class-Validator library, which allows you to set validation rules directly in classes
+## Skills
+- **Programming Languages**: JavaScript/TypeScript, SQL, GraphQL, C/C++
+- **Frameworks**: Node.js (Express)
+- **Databases**: PostgreSQL, MySQL, Redis, MongoDB
+- **ORMs/ODMs**: TypeORM, Sequelize
+- **DevOps**: Docker, Docker-Compose, Google Cloud Platform
+- **Operating Systems**: Linux (Ubuntu, Kali), macOS
+- **Other Tools**: Swagger, Jest, WebSockets, MQTT protocol, Git, XML, JSON
+- **Principles and Patterns**: SOLID, MVC, OOP, DDD, REST, CI/CD, GoF
+- **Soft Skills**: Creativity, Attention to Detail, Critical Thinking, Problem-Solving, Fast Learner, Leadership
 
-### Library platform:  <a href="https://github.com/hhuziuk/library_platform_ddd.git">project page</a>
-Used technologies: PostgreSQL, MongoDB, Typeorm, Mongoose, NodeJS(Express), Redis, GraphQL
+## Education
+- **Volyn Science Lyceum (Math profile)**: Avg grade: 11.4 / 12 (2018 - 2022)
+- **West Pomeranian University of Technology**: Computer Science/Software Engineering (2022 - Present)
 
-    * implemented the DDD architecture approach
-    * used Redis to store user sessions
-    * built authentication system on JWT
-    * wrote tests using Postman and unit-tests using Jest
-    * used MongoDB and Postgres databases (which could be quickly changed between them) to store user data
-    * wrote documentation using Swagger
-    * hosted project on Google Cloud Platform
+## Languages
+- **English**: B2
+- **Polish**: B2
+- **German**: Goethe-Zertifikat B2
+- **Ukrainian**: Native
+- **Russian**: Native
 
-
-## `Technologies`:
-### Development
- * ### Languages:
-    * JavaScript/TypeScript
-    * C#
-    * SQL
-    * C/C++
- * ### Frameworks:
-    * NodeJS Express
- * ### Databases:
-    * MySQL
-    * PostgreSQL
-    * MongoDB
-    * Redis
-    * GraphQL
-* ### ORMs:
-   * TypeORM
-   * Sequelize
- * ### Operating System:
-    * Windows
-    * Linux
-        * Fedora
-        * Ubuntu
-        * Kali Linux
-    * MacOS
-    * CLI
-        * Bash
-* ### Other:
-    * Jest
-    * Swagger
-    * WebSockets/MQTT protocols
-    * Git(GitHub)
-    * Principles and patterns:
-      * SOLID
-      * MVC
-      * DDD
-      * REST
-      * OOP
-      
-* ### DevOps
-    * Google Cloud Platform
-    * Docker, Docker-Compose
-
-* ### Foreign languages:
-  * German[Goethe-Zertifikat B2]
-  * English[Upper-Intermediate]
-  * Polish[B2]
-  * Ukrainian[Native]
-  * Russian[Native]
-
-
-
-## `Education`:
-* #### `01/09/2018 - 06/06/2022` - Volyn Science Lyceum (High school)
-* #### `01/10/2022 - ...` - West Pomeranian University of Technology (Faculty of Computer Science and Information Technology)
-
-## `About Me`:
-I’m a developer with experience in implementing complex projects using PostgreSQL, TypeORM, NodeJS,
-Redis and other related backend technologies. 
-My interests include hacking, cloud technologies, reading technical and scientific 
-books related to computer science and economics, cycling, outdoor activities and working with electronics and hardware.
+## About Me
+I’m a developer with experience in implementing complex projects using PostgreSQL, TypeORM, Node.js, Redis, and other related backend technologies. My interests include hacking, cloud technologies, reading technical and scientific books related to computer science and economics, cycling, outdoor activities, and working with electronics and hardware.
